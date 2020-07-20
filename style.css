@@ -39,7 +39,7 @@ body{
 }
 form {
   position: absolute;
-  height: 450px;
+  height: 500px;
   align-content: center;
   padding: 20px 60px;
   border-radius: 20px;
@@ -99,7 +99,10 @@ form h2{
   margin-top: 10px;
 }
 .input-div.two{
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+}
+.input-div.three{
+  margin-bottom: 10px;
 }
 .i{
   display: flex;
